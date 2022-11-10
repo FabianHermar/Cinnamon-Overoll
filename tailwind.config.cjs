@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./src/**/*.{html,js,astro,php}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'footer': "url('/public/footer-bg.webp')",
+      },
+    },
   },
   plugins: [],
 }
