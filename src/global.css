@@ -24,3 +24,12 @@
         src: url('/public/fonts/Thirsty/ThirstyRoughBold.woff') format('woff'), url('/public/fonts/Thirsty/ThirstyRoughBold.woff2') format('woff2');
     }
 }
+
+@layer components {
+    .COR div:first-child {
+        @apply rotate-45 translate-y-1.5
+    }
+    .COR div:last-child {
+        @apply -rotate-45 -translate-y-1
+    }
+}
