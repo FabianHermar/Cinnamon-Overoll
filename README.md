@@ -24,7 +24,7 @@ Se tiene previsto el diseñar, dar funcionalidad con **PHP**, **NodeJS** o **Jav
 Moviendo las manitas y dandole mucho amor al desarrollo de este proyecto ❤.
 Además, este proyecto se realizo con diferentes tecnologías de desarrollo que son las siguiente:
 - [TailwindCSS](https://tailwindcss.com/)
-- [Astro](https://astro.build/) (Aún se esta viendo si se usará en el producto final).
+- [Astro](https://astro.build/)
 - [PHP](https://www.php.net/) o [NodeJS](https://nodejs.org/en/)
 
 <hr>
@@ -46,5 +46,5 @@ It is planned to design, provide functionality with **PHP**, **NodeJS** or **Van
 Moving the hands and giving a lot of love to the development of this project ❤.
 In addition, this project was carried out with different development technologies that are the following:
 - [TailwindCSS](https://tailwindcss.com/)
-- [Astro](https://astro.build/) (It is still being seen if it will be used in the final product).
+- [Astro](https://astro.build/)
 - [PHP](https://www.php.net/) or [NodeJS](https://nodejs.org/en/)
