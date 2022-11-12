@@ -33,3 +33,21 @@
         @apply -rotate-45 -translate-y-1
     }
 }
+
+::selection {
+    background: #F0CEA0;
+    color: black;
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+    background: #F0CEA0;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #83502ed9;
+    border-radius: 20px;
+}
