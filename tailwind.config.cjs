@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'footer': "url('/public/Backgrounds/footer-bg.webp')",
+        'form': "url('/public/Backgrounds/gradient.png')",
       },
       colors: {
         'black-rgba': 'rgba(255, 255, 255, 0.05)',
