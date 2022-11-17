@@ -1,0 +1,47 @@
+---
+import Layout from '../layouts/Base.astro'
+import HeaderLR from '../components/HeaderLR.astro';
+---
+
+<Layout title="Iniciar Sesión">
+    <HeaderLR />
+    <section>
+        <p class="bg-footer text-center px-16 font-[Montserrat-Medium] text-2xl py-8"></p>
+        <div class="min-w-screen min-h-screen bg-footer flex items-center justify-center px-5 py-5">
+            <div class="text-gray-500 rounded-3xl shadow-xl w-[1400px] overflow-hidden backdrop-blur-[3px] bg-white/10 py-12 px-12">
+                <div class="md:flex w-full">
+                    <div class="hidden md:block w-1/2 py-32 px-12 select-none">
+                        <img src="../public/Elements/LR.webp" alt="">
+                    </div>
+                    <div class="w-full md:w-1/2 py-36 px-5 md:px-10">
+                        <form>
+                            <div class="flex -mx-3">
+                                <div class="w-full px-3 mb-5">
+                                    <label for="" class="text-lg font-[Montserrat-Bold] px-1 text-white">Usuario</label>
+                                    <div class="flex">
+                                        <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-email-outline text-gray-400 text-lg"></i></div>
+                                        <input type="email" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex -mx-3">
+                                <div class="w-full px-3 mb-12">
+                                    <label for="" class="text-lg font-[Montserrat-Bold] px-1 text-white">Contraseña</label>
+                                    <div class="flex">
+                                        <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-lock-outline text-gray-400 text-lg"></i></div>
+                                        <input type="text" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex -mx-3">
+                                <div class="w-full px-3 mb-5">
+                                    <button class="block w-full max-w-xs mx-auto bg-[#F0CEA0] text-black hover:bg-[#D9A45B] hover:text-white ease-in duration-75  rounded-lg px-3 py-3 font-[Montserrat-Bold]">Iniciar Sesión</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</Layout>
