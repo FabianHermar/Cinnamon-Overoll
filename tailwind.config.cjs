@@ -8,6 +8,7 @@ module.exports = {
         'form': "url('/public/Backgrounds/gradient.png')",
         'login': "url('/public/Backgrounds/login.webp')",
         'register': "url('/public/Backgrounds/register.webp')",
+        'contact': "url('/public/Backgrounds/ContactForm.webp')",
       },
       colors: {
         'black-rgba': 'rgba(255, 255, 255, 0.05)',
