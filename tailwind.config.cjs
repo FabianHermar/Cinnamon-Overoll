@@ -4,11 +4,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'footer': "url('/static/Backgrounds/footer-bg.webp')",
-        'form': "url('/static/Backgrounds/gradient.png')",
-        'login': "url('/static/Backgrounds/login.webp')",
-        'register': "url('/static/Backgrounds/register.webp')",
-        'contact': "url('/static/Backgrounds/ContactForm.webp')",
+        'footer': "url('/public/Backgrounds/footer-bg.webp')",
+        'form': "url('/public/Backgrounds/gradient.png')",
+        'login': "url('/public/Backgrounds/login.webp')",
+        'register': "url('/public/Backgrounds/register.webp')",
+        'contact': "url('/public/Backgrounds/ContactForm.webp')",
       },
       colors: {
         'black-rgba': 'rgba(255, 255, 255, 0.05)',
