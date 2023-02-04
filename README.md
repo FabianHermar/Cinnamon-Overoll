@@ -17,7 +17,7 @@ Bueno, más que nada este tiene la finalidad de hacer presentes nuestros conocim
 
 ### ¿Qué llevara esta sitio web?
 
-Se tiene previsto el diseñar, dar funcionalidad con **PHP**, **NodeJS** o **JavaScript Vanilla** y desplegar en la red para que así pueda tener un visto bueno sea por el profesor y por las personas que visiten esta página web.
+Se tiene previsto el diseñar y desplegar el proyecto en la red para que así pueda tener un visto bueno sea por el profesor y por las personas que visiten esta página web.
 
 ### ¿Cómo se desarrollo este sitio web?
 
@@ -25,7 +25,6 @@ Moviendo las manitas y dandole mucho amor al desarrollo de este proyecto ❤.
 Además, este proyecto se realizo con diferentes tecnologías de desarrollo que son las siguiente:
 - [TailwindCSS](https://tailwindcss.com/)
 - [Astro](https://astro.build/)
-- [PHP](https://www.php.net/) o [NodeJS](https://nodejs.org/en/)
 
 <hr>
 
@@ -39,7 +38,7 @@ Well, more than anything, this is intended to present our knowledge that we have
 
 ### What will this website carry?
 
-It is planned to design, provide functionality with **PHP**, **NodeJS** or **Vanilla JavaScript** and deploy on the network so that it can be approved by the teacher and by the people who visit this web page.
+It is planned to design and deploy the project on the network so that it can be approved by the teacher and by the people who visit this web page.
 
 ### How was this website developed?
 
@@ -47,4 +46,3 @@ Moving the hands and giving a lot of love to the development of this project ❤
 In addition, this project was carried out with different development technologies that are the following:
 - [TailwindCSS](https://tailwindcss.com/)
 - [Astro](https://astro.build/)
-- [PHP](https://www.php.net/) or [NodeJS](https://nodejs.org/en/)
