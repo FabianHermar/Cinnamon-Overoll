@@ -1,11 +1,11 @@
 {
-  "name": "@example/basics",
+  "name": "cinnamon-overoll",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
-    "dev": "astro dev",
     "start": "astro dev",
+    "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
@@ -15,5 +15,17 @@
     "@astrojs/vercel": "^2.3.4",
     "astro": "^1.6.0",
     "tailwindcss": "^3.2.2"
-  }
+  },
+  "description": "<p align=\"center\">\r   <img src=\"https://user-images.githubusercontent.com/95977433/198202895-dc9cc2f2-97e4-4250-ae75-5c5f42cda375.png\" alt=\"Cinnamon Overoll\" width=\"300\" heigth=\"300\">\r   <br/><br/>\r   ¡Ven y comparte dulzura!\r   <br/><br/>\r </p>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianHMzz/Cinnamon-Overoll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianHMzz/Cinnamon-Overoll/issues"
+  },
+  "homepage": "https://github.com/FabianHMzz/Cinnamon-Overoll#readme"
 }
