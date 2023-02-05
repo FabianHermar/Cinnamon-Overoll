@@ -7,6 +7,8 @@
   <br/><br/>
 </p>
 
+## Trabajando en la responsibidad del sitio web 🛠, gracias por su paciencia.
+
 ### ¿Qué es esto?
 
 ***Cinnamon Overoll*** es un proyecto universitario en el cual se tiene que desarrollar un sitio web dependiendiendo del tema que hayamos elegido, en este caso se elegió una establecimiento que tiene a la venta Rollos de Canela, Bebidas y otros snacks.
