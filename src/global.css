@@ -8,20 +8,20 @@
         src: url('/public/fonts/Aloja/Aloja-Light.woff') format('woff'), url('/public/fonts/Aloja/Aloja-Light.woff2') format('woff2');
     }
     @font-face {
-        font-family: 'Montserrat-Medium';
-        src: url('/public/fonts/Montserrat/Montserrat-Medium.woff') format('woff'), url('/public/fonts/Montserrat/Montserrat-Medium.woff2') format('woff2');
+        font-family: 'GilroyBold';
+        src: url('/public/fonts/Gilroy-Bold.woff2') format('woff2');
     }
     @font-face {
-        font-family: 'Montserrat-Bold';
-        src: url('/public/fonts/Montserrat/Montserrat-Bold.woff') format('woff'), url('/public/fonts/Montserrat/Montserrat-Bold.woff2') format('woff2');
+        font-family: 'GilroySemibold';
+        src: url('/public/fonts/Gilroy-SemiBold.woff2') format('woff2');
+    }
+    @font-face {
+        font-family: 'GilroyRegular';
+        src: url('/public/fonts/Gilroy-Regular.woff2') format('woff2');
     }
     @font-face {
         font-family: 'Thirsty-Regular';
         src: url('/public/fonts/Thirsty/ThirstyRoughRegular.woff') format('woff'), url('/public/fonts/Thirsty/ThirstyRoughRegular.woff2') format('woff2');
-    }
-    @font-face {
-        font-family: 'Thirsty-Bold';
-        src: url('/public/fonts/Thirsty/ThirstyRoughBold.woff') format('woff'), url('/public/fonts/Thirsty/ThirstyRoughBold.woff2') format('woff2');
     }
 }
 
