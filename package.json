@@ -11,10 +11,23 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/tailwind": "^2.1.2",
-    "@astrojs/vercel": "^2.3.4",
-    "astro": "^1.6.0",
-    "tailwindcss": "^3.2.2"
+    "@astrojs/react": "^3.0.3",
+    "@astrojs/tailwind": "^5.0.2",
+    "@astrojs/vercel": "^5.0.2",
+    "astro": "^3.3.2",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "6.8.0",
+    "@typescript-eslint/parser": "6.8.0",
+    "animated-tailwindcss": "4.0.0",
+    "eslint": "8.52.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-config-standard": "17.1.0",
+    "eslint-plugin-astro": "0.29.1",
+    "eslint-plugin-import": "2.28.1",
+    "eslint-plugin-n": "16.2.0",
+    "eslint-plugin-promise": "6.1.1"
   },
   "description": "<p align=\"center\">\r   <img src=\"https://user-images.githubusercontent.com/95977433/198202895-dc9cc2f2-97e4-4250-ae75-5c5f42cda375.png\" alt=\"Cinnamon Overoll\" width=\"300\" heigth=\"300\">\r   <br/><br/>\r   ¡Ven y comparte dulzura!\r   <br/><br/>\r </p>",
   "main": "index.js",
