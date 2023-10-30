@@ -1,7 +1,7 @@
 {
   "name": "cinnamon-overoll",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.1",
   "private": true,
   "scripts": {
     "start": "astro dev",
@@ -35,8 +35,8 @@
     "type": "git",
     "url": "git+https://github.com/FabianHMzz/Cinnamon-Overoll.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Fabian Herrera",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/FabianHMzz/Cinnamon-Overoll/issues"
   },
