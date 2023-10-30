@@ -1,12 +1,13 @@
 # Cinnamon Overoll
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95977433/198202895-dc9cc2f2-97e4-4250-ae75-5c5f42cda375.png" alt="Cinnamon Overoll" width="300" heigth="300">
+  <img src="https://raw.githubusercontent.com/FabianHMzz/Cinnamon-Overoll/main/public/Cinammon-Overoll-mockup.png" alt="Cinnamon Overoll" width="100%">
   <br/><br/>
   ¡Ven y comparte dulzura!
   <br/><br/>
 </p>
 
+<!--
 ## Trabajando en la responsibidad del sitio web 🛠, gracias por su paciencia.
 
 ### ¿Qué es esto?
@@ -48,3 +49,4 @@ Moving the hands and giving a lot of love to the development of this project ❤
 In addition, this project was carried out with different development technologies that are the following:
 - [TailwindCSS](https://tailwindcss.com/)
 - [Astro](https://astro.build/)
+-->
