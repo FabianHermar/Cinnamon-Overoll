@@ -1,6 +1,11 @@
+/* eslint-disable quotes */
+/* eslint-disable indent */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./src/**/*.{html,js,astro,php}'],
+  content: [
+    './src/**/*.{html,js,astro}',
+    './node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}'
+  ],
   theme: {
     extend: {
       backgroundImage: {
