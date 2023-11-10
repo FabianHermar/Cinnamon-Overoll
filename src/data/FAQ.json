@@ -1,0 +1,68 @@
+[
+  {
+    "key": 1,
+    "label": "¿Necesito una cuenta para poder entrar al programa de recompesas?",
+    "title": "¿Necesito una cuenta para poder entrar al programa de recompesas?",
+    "content": "Si, necesitas registrarse para poder ganar recompensas de Cinnamon Overoll."
+  },
+  {
+    "key": 2,
+    "label": "¿Cómo puedo ganar recompensas?",
+    "title": "¿Cómo puedo ganar recompensas?",
+    "content": "Para ganar recompensas, debes de comprar productos de Cinnamon Overoll para acumular puntos."
+  },
+  {
+    "key": 3,
+    "label": "¿Cómo puedo canjear mis recompensas?",
+    "title": "¿Cómo puedo canjear mis recompensas?",
+    "content": "Para canjear tus recompensas, debes de tener 250 puntos o más y luego ir a la sección de recompensas y seleccionar la recompensa que quieras."
+  },
+  {
+    "key": 4,
+    "label": "¿Cómo puedo ver mis recompensas canjeadas?",
+    "title": "¿Cómo puedo ver mis recompensas canjeadas?",
+    "content": "Para ver tus recompensas que hayas canjeado, debes de ir a la sección de recompensas e ir al apartado de recompensas canjeadas para checar tus recompensas."
+  },
+  {
+    "key": 5,
+    "label": "¿Mis recompesas canjeadas caducan?",
+    "title": "¿Mis recompesas canjeadas caducan?",
+    "content": "Si, tus recompensas canjeadas caducan después de haber pasado 30 días de haberlas canjeado."
+  },
+  {
+    "key": 6,
+    "label": "¿Puedo canjear mis recompensas varias veces?",
+    "title": "¿Puedo canjear mis recompensas varias veces?",
+    "content": "No, solo puedes canjear una recompensa una vez. Una vez que la hayas canjeado esta automáticamente se eliminara de tus recompesas canjeadas."
+  },
+  {
+    "key": 7,
+    "label": "¿Cómo puedo ver mis puntos?",
+    "title": "¿Cómo puedo ver mis puntos?",
+    "content": "Para ver tus puntos, debes de ir a la sección de recompensas y verás tus puntos en la parte superior derecha."
+  },
+  {
+    "key": 8,
+    "label": "¿Puedo ganar puntos con cualquier compra que haga en Cinnamon Overoll?",
+    "title": "¿Puedo ganar puntos con cualquier compra que haga en Cinnamon Overoll?",
+    "content": "Si, puedes ganar puntos con cualquier compra que hagas en Cinnamon Overoll, siempre y cuando la compra sea superior a $100 pesos."
+  },
+  {
+    "key": 9,
+    "label": "¿Mis puntos acumulados expiran?",
+    "title": "¿Mis puntos acumulados expiran?",
+    "content": "Si, tus puntos acumulados expiran después de 12 meses si no los has canjeado por alguna recompensa válida."
+  },
+  {
+    "key": 10,
+    "label": "¿Puedo canjear mis puntos por dinero?",
+    "title": "¿Puedo canjear mis puntos por dinero?",
+    "content": "No, no puedes canjear tus puntos por dinero."
+  },
+  {
+    "key": 11,
+    "label": "¿Cuántos puntos gano por cada compra realizada?",
+    "title": "¿Cuántos puntos gano por cada compra realizada?",
+    "content": "Por cada $100 pesos de compra realizada en Cinnamon Overoll, ganas 10 puntos."
+  }
+]
